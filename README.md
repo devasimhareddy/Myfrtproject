@@ -26,11 +26,13 @@ This is a web based application developed for Coffee-cafe Restaurants, website i
 ## Screenshots
 
 ### Home Page -
- ![Screenshot_20221128_170021](https://user-images.githubusercontent.com/119162903/204268327-b84133ef-5214-44fd-96be-1871f0ac264d.png)
+ ![Screenshot_20221128_171616](https://user-images.githubusercontent.com/119162903/204270207-b9312abe-e4e1-4ed7-8782-70e18ffd1e76.png)
+
 
 ### About-
-![Screenshot_20221128_170123](https://user-images.githubusercontent.com/119162903/204268359-dc61d92a-9b1c-462c-b21c-b59cb1a53155.png)
 
+
+![Screenshot_20221128_171553](https://user-images.githubusercontent.com/119162903/204270237-16f752cb-cb54-4d9e-9d2b-6fa9e4980e4e.png)
 
 
 ### Our coffees -
