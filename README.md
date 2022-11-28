@@ -7,6 +7,8 @@ This is a web based application developed for Coffee-cafe Restaurants, website i
 
 
 **Project Link** - https://brave-grass-0cb571c00.2.azurestaticapps.net/
+**Project demo video link- https://drive.google.com/file/d/1E-5CcTFsucI19xaBPifUL2QJ-xwL9AP3/view?usp=drivesdk 
+
  
 
 ## Azure technologies used for Project
